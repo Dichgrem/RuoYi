@@ -40,7 +40,9 @@ nbdist/
 *.log
 *.xml.versionsBackup
 *.swp
+.dev/
 
 !*/build/*.java
 !*/build/*.html
-!*/build/*.xml
+!*/build/*.xml.dev/
+redis.pid
